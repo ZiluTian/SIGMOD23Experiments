@@ -1,0 +1,15 @@
+[submodule "GiraphExperiments"]
+	path = GiraphExperiments
+	url = https://github.com/ZiluTian/GiraphExperiments
+[submodule "CloudCityExperiments"]
+	path = CloudCityExperiments
+	url = https://github.com/ZiluTian/CloudCityExperiments
+[submodule "ExperimentGraphs"]
+	path = ExperimentGraphs
+	url = https://github.com/ZiluTian/ExperimentGraphs
+[submodule "GraphxExperiments"]
+	path = GraphxExperiments
+	url = https://github.com/ZiluTian/GraphxExperiments
+[submodule "SparkExperiments"]
+	path = SparkExperiments
+	url = https://github.com/ZiluTian/SparkExperiments
