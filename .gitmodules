@@ -13,3 +13,6 @@
 [submodule "SparkExperiments"]
 	path = SparkExperiments
 	url = https://github.com/ZiluTian/SparkExperiments
+[submodule "FlinkExperiments"]
+	path = FlinkExperiments
+	url = https://github.com/ZiluTian/FlinkExperiments
